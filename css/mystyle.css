@@ -1,0 +1,146 @@
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+body{
+    background-color: aqua;
+    font-size: 18px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    text-align: justify;
+    line-height: normal;
+}
+
+h1{
+    background-color: orange;
+    color: brown;
+    font-size: 50px;
+    text-align: center;
+}
+
+.heading{
+    color: blue;
+}
+
+#menu{
+    background-color: blue;
+    width: 100%;
+    height: 100px;
+    color: rgb(15, 15, 15);
+    padding: 25px 5px;
+    text-align: center;
+    border: radius 0;
+    margin: auto;
+    display: inline-block;
+    text-decoration: none;
+}
+#menu a{
+    background-color: white;
+    text-decoration: none;
+    color: midnightblue;
+    font-size: 25px;
+    padding: 10px;
+    border-radius: 5px;
+    display: inline-block;
+    margin-bottom: 20px;
+}
+#menu a:hover{
+    background-color: rgb(0, 132, 255);
+    text-decoration: none;
+}
+#hero{
+    background-color: blueviolet;
+    height: 200px;
+    width: auto;
+    border-radius: 0px;
+    margin-top: 0px;
+    padding: 50px;
+    text-align: center;
+}
+
+#hero h1{
+    background-color: blueviolet;
+    color: aliceblue;
+    font-size: 40px;
+}    
+#hero p{
+    color: chartreuse;
+    font-size: 20px;
+    margin: 10px;
+}
+#hero a{
+    background-color: blue;
+    text-decoration: none;
+    color: white;
+    padding: 10px;
+    border-radius: 5px;
+    height: 45px;
+    display: inline-block;
+}
+#hero a:hover{
+    background-color: rgb(0, 132, 255);
+}
+#Courses{
+    text-align: center;
+    font-size: 20px;
+    height: auto;
+}
+#Courses h1{
+    background-color: aliceblue;
+    margin: 5px;
+    width: 100%;
+    padding: 20px;
+}
+#form{
+    font-size: large;
+    height: 100px;
+    text-align: center;
+    color: blue;
+}
+#Gerald p{
+    background-color: aliceblue;
+    text-align: justify;
+    color: black;
+    margin: 5px;
+    border-radius: 5px;
+    padding: 20px;
+}
+#Gerald h1{
+    font-size: 24;
+    background-color: aqua;
+}
+#family h1{
+    font-size: 24;
+    background-color: aqua;
+    color: darkorange;
+    padding: auto;
+}
+#family ol{
+    text-align: center;
+}
+#media{
+    align-content: center;
+    justify-content: center;
+}
+#media h1{
+    font-size: 24;
+    text-align: center;
+}
+#media img{
+    height: 300px;
+    margin: 10px;
+    border-radius: 20px;
+}
+#media a:hover{
+    background-color: rgb(0, 132, 255);
+} 
+#films h1{
+    font-size: 24;
+    text-align: center;
+} 
+#films video{
+    height: 300px;
+    margin: 10px;
+    border-radius: 20px;
+}  
